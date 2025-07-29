@@ -1,0 +1,50 @@
+.today{
+   display: flex;
+   justify-content: center;
+}
+.today-section{
+     background-color: rgb(241, 235, 235);
+    height:100%;
+    width:100%;
+    box-shadow: 0 0 10px black;
+    border-radius: 20px;
+}
+.section{
+    background-color: rgb(49, 174, 220);
+    height:150px;
+    width:90%;
+    box-shadow: 0 0 10px black;
+    border-radius: 30px;
+    padding:40px;
+   color: white;
+}
+.Engizing{
+    display: flex;
+    align-items: center;
+    gap:80px;
+    color: white;
+    font-size: large;
+}
+.Morning{
+    border-color: lightgray;
+    width: 80%;
+    height: fit-content;
+    padding:5px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px black;
+    
+   
+}
+.Morning Pre{
+    display: flex;
+    justify-content: right;
+   
+
+}
+.up-section{
+    width:50%;
+    height: 100%;
+    border-radius: 20px;
+    box-sizing: 0 0 10 black;
+    border: 1px solid black;
+}
