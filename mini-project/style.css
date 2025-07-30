@@ -51,7 +51,7 @@
     height: 100%;
     border-radius: 20px;
     box-sizing: 0 0 10 black;
-    border: 1px solid black;
+    border: 1px solid rgb(18, 216, 87);
 }
 /* .recent{
     background-color: white;
@@ -59,3 +59,12 @@
     height:100%;
     border: 1px solid black;
 } */
+ .uptext{
+    
+    border-left: 5px green;
+    border-right: 0px;
+    border-top: 0px;
+    border-bottom: 0px;
+     border-style: solid;
+    height: 100px;
+ }
